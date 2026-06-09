@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Insane18 Paralives Mod Tools
 // @namespace    https://steamcommunity.com/
-// @version      1.4.0
+// @version      1.4.1
 // @description  Adds a mod mirror download button on Steam Workshop pages when the ID exists in the JSON.
 // @include      /^https:\/\/steamcommunity\.com\/sharedfiles\/filedetails\/?\?id=\d+/
 // @grant        GM_xmlhttpRequest
@@ -312,7 +312,7 @@
             </a>
 
             <div id="tm-modmirror-warning-note">
-                Warning: the Steam Workshop item was updated after this mod upload, so this download may be outdated. <a href="https://cs.rin.ru/forum/posting.php?mode=reply&f=10&t=158692">Request update!</a>
+                Warning: the Steam Workshop item was updated after this mod upload (Keep GMT+1 in mind), so this download may be outdated. <a href="https://cs.rin.ru/forum/posting.php?mode=reply&f=10&t=158692">Request update!</a>
             </div>
 
             <div id="tm-modmirror-meta">
