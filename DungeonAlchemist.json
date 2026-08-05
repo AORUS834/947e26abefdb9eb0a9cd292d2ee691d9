@@ -1,7 +1,29 @@
 {
     "fld_id": 297,
-    "total_files": 535,
+    "total_files": 537,
     "files": [
+        {
+            "downloads": 0,
+            "file_code": "o7ldi7wmecyf",
+            "fld_id": 297,
+            "link": "https://fileq.net/o7ldi7wmecyf.html",
+            "name": "3778171783 - Hexi Trenches.7z",
+            "public": 1,
+            "size": 897292,
+            "thumbnail": null,
+            "uploaded": "2026-08-05 19:08:41"
+        },
+        {
+            "downloads": 0,
+            "file_code": "j1u41h5ay4g3",
+            "fld_id": 297,
+            "link": "https://fileq.net/j1u41h5ay4g3.html",
+            "name": "3778180092 - Log Walk.7z",
+            "public": 1,
+            "size": 209200,
+            "thumbnail": null,
+            "uploaded": "2026-08-05 19:07:57"
+        },
         {
             "downloads": 0,
             "file_code": "g261jb3170kv",
@@ -4656,7 +4678,7 @@
             "uploaded": "2026-07-01 15:05:11"
         },
         {
-            "downloads": 0,
+            "downloads": 1,
             "file_code": "j8hrzr85b86d",
             "fld_id": 297,
             "link": "https://fileq.net/j8hrzr85b86d.html",
