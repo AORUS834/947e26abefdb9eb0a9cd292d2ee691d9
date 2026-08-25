@@ -1,7 +1,29 @@
 {
     "fld_id": 297,
-    "total_files": 303,
+    "total_files": 304,
     "files": [
+        {
+            "downloads": 0,
+            "file_code": "sspkbp2bbh2t",
+            "fld_id": 297,
+            "link": "https://fileq.net/sspkbp2bbh2t.html",
+            "name": "3790134701 - Tiefling Dark Paladin.7z",
+            "public": 1,
+            "size": 27920238,
+            "thumbnail": null,
+            "uploaded": "2026-08-26 00:06:21"
+        },
+        {
+            "downloads": 0,
+            "file_code": "9nx5j837301e",
+            "fld_id": 297,
+            "link": "https://fileq.net/9nx5j837301e.html",
+            "name": "3790135039 - Tiefling Warlock.7z",
+            "public": 1,
+            "size": 27308327,
+            "thumbnail": null,
+            "uploaded": "2026-08-26 00:05:39"
+        },
         {
             "downloads": 0,
             "file_code": "onm7tzw5g4ut",
@@ -3180,17 +3202,6 @@
             "size": 79016,
             "thumbnail": null,
             "uploaded": "2026-08-06 03:05:12"
-        },
-        {
-            "downloads": 0,
-            "file_code": "tx509q5mxi39",
-            "fld_id": 297,
-            "link": "https://fileq.net/tx509q5mxi39.html",
-            "name": "3778288866 - Triax shanty port.7z",
-            "public": 1,
-            "size": 469388,
-            "thumbnail": null,
-            "uploaded": "2026-08-05 23:05:18"
         },
         {
             "downloads": 2,
