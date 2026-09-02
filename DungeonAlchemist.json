@@ -1,6 +1,6 @@
 {
     "fld_id": 297,
-    "total_files": 340,
+    "total_files": 339,
     "files": [
         {
             "downloads": 0,
@@ -3730,17 +3730,6 @@
             "size": 5514069,
             "thumbnail": null,
             "uploaded": "2026-08-14 02:05:13"
-        },
-        {
-            "downloads": 0,
-            "file_code": "pzqxqenab1ks",
-            "fld_id": 297,
-            "link": "https://fileq.net/pzqxqenab1ks.html",
-            "name": "3782923770 - Valthampur Villa Sewers.7z",
-            "public": 1,
-            "size": 173726,
-            "thumbnail": null,
-            "uploaded": "2026-08-13 23:05:13"
         }
     ]
 }
