@@ -1,7 +1,29 @@
 {
     "fld_id": 297,
-    "total_files": 421,
+    "total_files": 422,
     "files": [
+        {
+            "downloads": 0,
+            "file_code": "lkhfb7udq5xz",
+            "fld_id": 297,
+            "link": "https://fileq.net/lkhfb7udq5xz.html",
+            "name": "3798454899 - The Pillars of Nosgoth — Not Corrupted.7z",
+            "public": 1,
+            "size": 5102164,
+            "thumbnail": null,
+            "uploaded": "2026-09-09 10:05:50"
+        },
+        {
+            "downloads": 0,
+            "file_code": "m5146dff9xni",
+            "fld_id": 297,
+            "link": "https://fileq.net/m5146dff9xni.html",
+            "name": "3798465673 - The Pillars of Nosgoth — Corrupted.7z",
+            "public": 1,
+            "size": 5772384,
+            "thumbnail": null,
+            "uploaded": "2026-09-09 10:00:14"
+        },
         {
             "downloads": 0,
             "file_code": "mcm7ep7uicdy",
@@ -3655,7 +3677,7 @@
             "uploaded": "2026-08-26 00:05:39"
         },
         {
-            "downloads": 0,
+            "downloads": 1,
             "file_code": "onm7tzw5g4ut",
             "fld_id": 297,
             "link": "https://fileq.net/onm7tzw5g4ut.html",
@@ -4621,17 +4643,6 @@
             "size": 406240,
             "thumbnail": null,
             "uploaded": "2026-08-20 14:00:20"
-        },
-        {
-            "downloads": 0,
-            "file_code": "ra70ecjedgzm",
-            "fld_id": 297,
-            "link": "https://fileq.net/ra70ecjedgzm.html",
-            "name": "3786735876 - Fire mage boss fight.7z",
-            "public": 1,
-            "size": 369214,
-            "thumbnail": null,
-            "uploaded": "2026-08-20 09:04:53"
         }
     ]
 }
