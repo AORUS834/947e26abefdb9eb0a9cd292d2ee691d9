@@ -1,6 +1,6 @@
 {
     "fld_id": 297,
-    "total_files": 484,
+    "total_files": 483,
     "files": [
         {
             "downloads": 0,
@@ -5314,17 +5314,6 @@
             "size": 271536,
             "thumbnail": null,
             "uploaded": "2026-08-22 11:04:50"
-        },
-        {
-            "downloads": 0,
-            "file_code": "u10lxyvzu0jf",
-            "fld_id": 297,
-            "link": "https://fileq.net/u10lxyvzu0jf.html",
-            "name": "3787833474 - Grand Tournament.7z",
-            "public": 1,
-            "size": 4761013,
-            "thumbnail": null,
-            "uploaded": "2026-08-22 07:00:17"
         }
     ]
 }
